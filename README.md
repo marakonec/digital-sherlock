@@ -76,5 +76,4 @@ dotnet run sherlock.cs -- ust.edu.ua --offline
 
 Олександр Жеваго, кафедра комп'ютерних інформаційних технологій УДУНТ
 Пошта o.o.zhevaho@ust.edu.ua
-Telegram @marakonec
 Канал кафедри t.me/kit_diit
