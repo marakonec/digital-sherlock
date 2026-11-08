@@ -35,8 +35,6 @@ else
 }
 Sherlock.Show(card);
 
-// ↓ Місце для того, що допишемо на занятті
-
 record Card(string Site, string? FirstYear, string? OldTitle, int? Versions, string? Title,
             int? Status, string Server, bool? Https, string? Saved = null);
 

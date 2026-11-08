@@ -105,5 +105,3 @@ if __name__ == "__main__":
             path.parent.mkdir(exist_ok=True)
             path.write_text(json.dumps(card, ensure_ascii=False, indent=1), encoding="utf-8")
     show(card)
-
-    # ↓ Місце для того, що допишемо на занятті
